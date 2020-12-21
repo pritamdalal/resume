@@ -1,0 +1,267 @@
+---
+name: Pritam Dalal
+#surname: Dalal
+#position: "Quantitative Finance and Data Science"
+address: "2496 County Road C2 West Apt 207 - St. Paul, MN 55113"
+phone: 612.400.4733
+#www: 
+email: "pritamdalal@hotmail.com"
+#twitter: mariecurie
+github: pritamdalal
+linkedin: pritamdalal
+headcolor: "414141"
+#date: "`r format(Sys.time(), '%B %Y')`"
+header-includes:
+    - \geometry{left=2.0cm, top=2.0cm, right=2.0cm, bottom=2.0cm, footskip=0.0cm}
+output: 
+  vitae::awesomecv:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(vitae)
+library(tibble)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<!-- \makecvfooter -->
+<!--   {} -->
+<!--     {Pritam Dalal~~~·~~~Resume} -->
+<!--   {\thepage} -->
+
+# Summary
+<!-- A Senior Quantitative Finance Research Professional producing insights from data with excellent programming, data science and machine learning skills. Recognized for excellent written and verbal analytical communication skills including public speaking, and white paper authorship. Dedicated team player and technical lead, with aptitude to deliver results with calm temperament in demanding and ambiguous environments. -->
+
+* Quantitative professional with 13 years of experience in research, data science, and trading roles.
+
+* University of Minnesota adjunct faculty teaching graduate students data science through appointments in the School of Mathematics and the Carlson School of Business.
+
+* Master's in Financial Mathematics (University of Minnesota) and Bachelor's in Mathematics and Economics (University of California Berkeley).
+
+* Experienced in data science, machine learning and statistics: random forest, gradient boosted trees, GARCH, principal component analysis, regression.
+
+* Development experience in Python, R, MySQL, PostgreSQL, AWS, Excel and VBA.
+
+* Financial services experience working with options, commodities, futures, variance swaps,  interest rate swaps,  mortgages, corporate debt, asset-backed securities, annuities.
+
+# Experience
+**Aware Asset Management - St Paul, MN**  \hfill 2019 - Present
+
+\vspace{-1ex}
+
+Head of Quantitative Research
+
+\vspace{-1.5ex}
+
+\small
+- Determine the quantitative research agenda for all of Aware's investment strategies spanning corporate debt, mortgage backed securities, and asset backed securities. \vspace{-0.5ex}
+
+- Develop machine learning models for predicting student loan defaults in JupyterLab with Python’s scikit-learn package; features were selected from Intex CDU files, and a variety of classification models were employed including logistic regression, decision tree, and random  forest. \vspace{-0.5ex}
+
+- Lead the migration of our research platform into Blue Cross’s new AWS architecture and developed a working knowledge of several services including Redshift, S3, EC2.  \vspace{-0.5ex}
+
+- Contribute to marketing through media interviews, podcast appearances, and monthly newsletter authorship. \vspace{-0.5ex}
+
+\normalsize
+
+<!-- \vspace{-1.75ex} -->
+
+**University of Minnesota - Minneapolis, MN**  \hfill 2018 - Present
+
+\vspace{-1ex}
+
+Adjunct Faculty
+
+\vspace{-1.5ex}
+
+\small
+
+- Develop and teach machine learning and data analysis courses using Python and R courses for Master of Financial Mathematics program; tutorials developed in Jupyter Notebooks and R Markdown notebooks, slide presentations written in R Markdown. \vspace{-0.5ex}
+
+- Faculty mentor for final project of Carlson School of Business Master of Science in Finance program. \vspace{-0.5ex}
+
+- Developed an R package to clean and wrangle a large database of historical options data, using on-premise MySQL and PostgresSQL databases for data storage. \vspace{-0.5ex}
+<!-- - Building relationships with data vendors and local industry to provide data to the program. \vspace{-0.5ex} -->
+<!-- - My courses focus on Python and R with applications in quantitative finance. \vspace{-0.5ex} -->
+- Machine Learning: \href{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance}{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance} \vspace{-0.5ex}
+
+- Python: \href{https://github.com/pritamdalal/python\_for\_data\_wrangling\_in\_finance}{https://github.com/pritamdalal/python\_for\_data\_wrangling\_in\_finance} \vspace{-0.5ex}
+
+-  R: \href{https://pritamdalal.github.io/rff\_course/}{https://pritamdalal.github.io/rff\_course/} \vspace{-0.5ex}
+
+\normalsize
+
+<!-- \vspace{-1.75ex} -->
+
+**Incenter - St. Paul, MN**  \hfill 2016 - 2017
+
+\vspace{-1ex}
+
+Trader Analyst
+
+\vspace{-1.5ex}
+
+\small
+- Priced and calculated sensitivities for MSR, reverse mortgages, and other mortgage products; data warehouses were located in Azure, and computations were executed in Python, R, and VBA. \vspace{-0.5ex}
+<!-- - Developed risk reporting systems in Python for hedging a portfolio of mortgage-related assets. \vspace{-0.5ex} -->
+
+- Developed and implemented the TBA and interest rate swap hedging strategies; developed custom R functions for valuing interest rate swaps. \vspace{-0.5ex}
+
+- Trade execution for hedge rebalances on TBA positions and interest rate swap positions. \vspace{-0.5ex}
+
+\normalsize
+
+
+**Wolverine Trading - Chicago, IL**  \hfill 2015 - 2016
+
+\vspace{-1ex}
+
+Data Scientist
+
+\vspace{-1.5ex}
+
+\small
+- Performed reporting, data analysis, and predictive analytics on various aspect of automated market-making systems utilizing R, SQL, Tableau, and Tableau Server; data sources included OPRA, exchange reporting, and proprietary data generated from the market-making strategies. \vspace{-0.5ex}
+
+- Lead Wolverine's proprietary delta-hedging strategy, a program for saving on transaction costs by holding positions in the underlying (deltas) for short periods of time. \vspace{-0.5ex}
+
+- Lead the analytics development for Wolverine's liquidity taking strategies; created a visualization-based dashboard in Tableau to stratify fill-rate statistics. \vspace{-0.5ex}
+
+- Played a key role in the transition to Tableau for reporting and analysis. \vspace{-0.5ex}
+
+\normalsize
+
+**Two Harbors Investment Corp - Minneapolis, MN **  \hfill 2014 - 2015
+
+\vspace{-1ex}
+
+MSR Servicer Performance Consultant (Contract)
+
+\vspace{-1.5ex}
+
+\small
+- Analyzed loan-level and repline-level data to develop various portfolio performance analytics for the purposes of MSR subservicer oversight, using C\#, VBA, and Excel; data warehouses located in on-premise Microsoft SQL Server databases. \vspace{-0.5ex}
+
+- Analyzed cash-flows and remittances to validate subservicer billing statements to determine if foreclosure processes were properly billed. \vspace{-0.5ex}
+
+- Researched historical delinquency rates in Ginnie Mae collateral by analyzing various data sources provided by the Government Sponsored Entities. \vspace{-0.5ex}
+
+<!-- - Completed various ad hoc projects related to subservicer oversight and data integrity. \vspace{-0.5ex} -->
+
+\normalsize
+
+**Hedge Fund Launch Development - Minneapolis, MN **  \hfill 2012 - 2014
+
+\vspace{-1ex}
+
+Principal and Researcher
+
+\vspace{-1.5ex}
+
+\small
+- Backtested various volatility trading strategies in equities and ETFs, using R and Python; this involved empirical research in portfolio optimization and variance forecasting. \vspace{-0.5ex}
+
+- Built an on-premise MySQL research database for historical end-of-day option prices, intraday option prices, parametric fitted skews, equity corporate actions, and variance estimates. \vspace{-0.5ex}
+
+- Developed a working knowledge of the Interactive Brokers C\# API, and used the API for intraday data capture of option prices and order book depth. \vspace{-0.5ex}
+
+- Explored legal and regulatory issues involving the hedge fund industry.
+
+\normalsize
+
+**Cargill - Minneapolis, MN**  \hfill 2008 - 2012 
+
+\vspace{-1ex}
+
+Junior Trader
+
+\vspace{-1.5ex}
+
+\small
+- Developed, backtested, and implemented a proprietary commodity volatility trading strategy; this research was conducted in VBA and Excel, with a Oracle database backend.  \vspace{-0.5ex}
+
+- Strategy performance (4/2011-7/2014): \$20MM AUM, 16\% annualized returns, 1.88 Sharpe-Ratio.  \vspace{-0.5ex}
+
+- Managing and hedging portfolios of exotic derivatives on various commodity futures.  \vspace{-0.5ex}
+
+- Data analysis of skew-based models for pricing and replicating digital and barrier options using R. \vspace{-0.5ex}
+
+- Developed and implemented an interest rate hedging strategy using Eurodollar futures.  \vspace{-0.5ex}
+
+- Extensive experience trading exchange and OTC options on commodity futures. \vspace{-0.5ex}
+
+- Created and presented finance training seminars for non-traders. \vspace{-0.5ex}
+
+\normalsize
+
+
+**Allianz Investment Management - Minneapolis, MN**  \hfill 2007 - 2008 
+
+\vspace{-1ex}
+
+Quantitative Analyst
+
+\vspace{-1.5ex}
+
+\small
+- Structured, priced, and hedged fixed and variable annuity benefits. \vspace{-0.5ex}
+
+- Systems development for the hedging platform including risk analytics, sensitivity analysis; primary technologies were VBA and Excel. \vspace{-0.5ex}
+
+- Research and backtesting projects on topics such as model selection, Monte-Carlo methods, and option replication. \vspace{-0.5ex}
+
+\normalsize
+
+
+# Education
+
+**University of Minnesota, Twin Cities**
+
+\vspace{-1ex}
+
+Master of Financial Mathematics
+
+\vspace{-1ex}
+
+GPA: 4.0
+
+
+**University of California, Berkeley**
+
+\vspace{-1ex}
+
+Bachelors of Arts, Mathematics and Economics (honors)
+
+\vspace{-1ex}
+
+GPA: 3.42
+
+
+# Technical Expertise
+
+**Computing Technology**
+
+\vspace{-1ex}
+
+Python, R, SQL, Amazon Web Services, Linux, Git/GitHub, Tableau, Excel, VBA
+
+**Communication Tools**
+
+\vspace{-1ex}
+
+Jupyter Notebook, R Markdown, Bookdown, \LaTeX
+
+
+**Machine Learning, Statistics, and Mathematics**
+
+\vspace{-1ex}
+
+Random Forest, Regression, Logistic Regression, Decision Trees, GARCH, Principal Components Analysis, Linear Algebra, Real Analysis, Probability
+
+
+**Quantitative Finance**
+
+\vspace{-1ex}
+
+Option Replication, Dynamic Hedging, Futures, Commodities, Variance Swaps, Variance Estimation, Volatility Trading, Interest Rate Swaps, Mortgage Backed Securities, Mortgage Servicing Rights, Student Loan Asset Backed Securities, Corporate Bonds 
