@@ -46,7 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Financial services experience working with options, commodities, futures, variance swaps,  interest rate swaps,  mortgages, corporate debt, asset-backed securities, annuities.
 
 # Experience
-**Aware Asset Management - St Paul, MN**  \hfill 2019 - Present
+**Aware Asset Management - St Paul, MN**  \hfill 2019 - 2021
 
 \vspace{-1ex}
 
@@ -55,13 +55,13 @@ Head of Quantitative Research
 \vspace{-1.5ex}
 
 \small
-- Determine the quantitative research agenda for all of Aware's investment strategies spanning corporate debt, mortgage backed securities, and asset backed securities. \vspace{-0.5ex}
+- Determined the quantitative research agenda for all of Aware's investment strategies spanning corporate debt, mortgage backed securities, and asset backed securities. \vspace{-0.5ex}
 
-- Develop machine learning models for predicting student loan defaults in JupyterLab with Python’s scikit-learn package; features were selected from Intex CDU files, and a variety of classification models were employed including logistic regression, decision tree, and random  forest. \vspace{-0.5ex}
+- Developed machine learning models for predicting student loan defaults in JupyterLab with Python’s scikit-learn package; features were selected from Intex CDU files, and a variety of classification models were employed including logistic regression, decision tree, and random  forest. \vspace{-0.5ex}
 
 - Lead the migration of our research platform into Blue Cross’s new AWS architecture and developed a working knowledge of several services including Redshift, S3, EC2.  \vspace{-0.5ex}
 
-- Contribute to marketing through media interviews, podcast appearances, and monthly newsletter authorship. \vspace{-0.5ex}
+- Contributed to marketing through media interviews, podcast appearances, and monthly newsletter authorship. \vspace{-0.5ex}
 
 \normalsize
 
