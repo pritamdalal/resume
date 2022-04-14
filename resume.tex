@@ -20,10 +20,12 @@
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
-\documentclass[11pt, a4paper]{awesome-cv}
+\documentclass[11pt,a4paper,]{awesome-cv}
 
 % Configure page margins with geometry
+\usepackage{geometry}
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -57,7 +59,7 @@
 
 \name{Pritam Dalal}{}
 
-\address{2496 County Road C2 West Apt 207 - St.~Paul, MN 55113}
+\address{2340 River Pointe Circle - Minneapolis, MN 55411}
 
 \mobile{612.400.4733}
 \email{\href{mailto:pritamdalal@hotmail.com}{\nolinkurl{pritamdalal@hotmail.com}}}
@@ -129,7 +131,7 @@
 
 \begin{itemize}
 \item
-  Quantitative professional with 13 years of experience in research,
+  Quantitative professional with 15 years of experience in research,
   data science, and trading roles.
 \item
   University of Minnesota adjunct faculty teaching graduate students
@@ -141,11 +143,10 @@
   Berkeley).
 \item
   Experienced in data science, machine learning and statistics: random
-  forest, gradient boosted trees, GARCH, principal component analysis,
-  regression.
+  forest, gradient boosted trees, GARCH, neural networks, principal
+  component analysis, regression.
 \item
-  Development experience in Python, R, MySQL, PostgreSQL, AWS, Excel and
-  VBA.
+  Development experience in Python, R, MySQL, PostgreSQL, Excel and VBA.
 \item
   Financial services experience working with options, commodities,
   futures, variance swaps, interest rate swaps, mortgages, corporate
@@ -154,6 +155,34 @@
 
 \hypertarget{experience}{%
 \section{Experience}\label{experience}}
+
+\textbf{RStudio - Minneapolis, MN} \hfill 2021 - Present
+
+\vspace{-1ex}
+
+Customer Success Manager
+
+\vspace{-1.5ex}
+
+\small
+
+\begin{itemize}
+\item
+  Work with our largest financial services clients to ensure successful
+  adoption of RStudio's professional products; the primary sales success
+  metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
+\item
+  For 2021, achieved a gross dollar retention of 93\% versus a quota of
+  89\%. \vspace{-0.5ex}
+\item
+  Conduct a variety of client-facing webinars and seminars on Python, R,
+  and RStudio professional products. \vspace{-0.5ex}
+\item
+  Lead a series of internal trainings on data wrangling in Python.
+  \vspace{-0.5ex}
+\end{itemize}
+
+\normalsize
 
 \textbf{Aware Asset Management - St Paul, MN} \hfill 2019 - 2021
 
@@ -209,7 +238,7 @@ Adjunct Faculty
 \item
   Developed an R package to clean and wrangle a large database of
   historical options data, using on-premise MySQL and PostgresSQL
-  databases for data storage. \vspace{-0.5ex} 
+  databases for data storage. \vspace{-0.5ex}
 \item
   Machine Learning:
   \href{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance}{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance}
@@ -240,7 +269,7 @@ Trader Analyst
 \item
   Priced and calculated sensitivities for MSR, reverse mortgages, and
   other mortgage products; data warehouses were located in Azure, and
-  computations were executed in Python, R, and VBA. \vspace{-0.5ex} 
+  computations were executed in Python, R, and VBA. \vspace{-0.5ex}
 \item
   Developed and implemented the TBA and interest rate swap hedging
   strategies; developed custom R functions for valuing interest rate
@@ -379,6 +408,8 @@ Junior Trader
   \vspace{-0.5ex}
 \end{itemize}
 
+\pagebreak
+
 \normalsize
 
 \textbf{Allianz Investment Management - Minneapolis, MN} \hfill 2007 -
@@ -437,8 +468,7 @@ GPA: 3.42
 
 \vspace{-1ex}
 
-Python, R, SQL, Amazon Web Services, Linux, Git/GitHub, Tableau, Excel,
-VBA
+Python, R, SQL, Tableau, Excel, VBA
 
 \textbf{Communication Tools}
 
@@ -451,8 +481,8 @@ Jupyter Notebook, R Markdown, Bookdown, \LaTeX
 \vspace{-1ex}
 
 Random Forest, Regression, Logistic Regression, Decision Trees, GARCH,
-Principal Components Analysis, Linear Algebra, Real Analysis,
-Probability
+Principal Components Analysis, Neural Networks, Linear Algebra, Real
+Analysis, Probability
 
 \textbf{Quantitative Finance}
 
@@ -462,5 +492,7 @@ Option Replication, Dynamic Hedging, Futures, Commodities, Variance
 Swaps, Variance Estimation, Volatility Trading, Interest Rate Swaps,
 Mortgage Backed Securities, Mortgage Servicing Rights, Student Loan
 Asset Backed Securities, Corporate Bonds
+
+
 
 \end{document}

@@ -2,12 +2,12 @@
 name: Pritam Dalal
 #surname: Dalal
 #position: "Quantitative Finance and Data Science"
-address: "2496 County Road C2 West Apt 207 - St. Paul, MN 55113"
+address: "2340 River Pointe Circle - Minneapolis, MN 55411"
 phone: 612.400.4733
 #www: 
 email: "pritamdalal@hotmail.com"
 #twitter: mariecurie
-github: pritamdalal
+github:  pritamdalal
 linkedin: pritamdalal
 headcolor: "414141"
 #date: "`r format(Sys.time(), '%B %Y')`"
@@ -33,19 +33,39 @@ knitr::opts_chunk$set(echo = FALSE)
 # Summary
 <!-- A Senior Quantitative Finance Research Professional producing insights from data with excellent programming, data science and machine learning skills. Recognized for excellent written and verbal analytical communication skills including public speaking, and white paper authorship. Dedicated team player and technical lead, with aptitude to deliver results with calm temperament in demanding and ambiguous environments. -->
 
-* Quantitative professional with 13 years of experience in research, data science, and trading roles.
+* Quantitative professional with 15 years of experience in research, data science, and trading roles.
 
 * University of Minnesota adjunct faculty teaching graduate students data science through appointments in the School of Mathematics and the Carlson School of Business.
 
 * Master's in Financial Mathematics (University of Minnesota) and Bachelor's in Mathematics and Economics (University of California Berkeley).
 
-* Experienced in data science, machine learning and statistics: random forest, gradient boosted trees, GARCH, principal component analysis, regression.
+* Experienced in data science, machine learning and statistics: random forest, gradient boosted trees, GARCH, neural networks, principal component analysis, regression.
 
-* Development experience in Python, R, MySQL, PostgreSQL, AWS, Excel and VBA.
+* Development experience in Python, R, MySQL, PostgreSQL, Excel and VBA.
 
 * Financial services experience working with options, commodities, futures, variance swaps,  interest rate swaps,  mortgages, corporate debt, asset-backed securities, annuities.
 
 # Experience
+**RStudio - Minneapolis, MN**  \hfill 2021 - Present
+
+\vspace{-1ex}
+
+Customer Success Manager
+
+\vspace{-1.5ex}
+
+\small
+- Work with our largest financial services clients to ensure successful adoption of RStudio's professional products; the primary sales success metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
+
+- For 2021, achieved a gross dollar retention of 93% versus a quota of 89%. \vspace{-0.5ex}
+
+- Conduct a variety of client-facing webinars and seminars on Python, R, and RStudio professional products. \vspace{-0.5ex}
+
+- Lead a series of internal trainings on data wrangling in Python. \vspace{-0.5ex}
+
+\normalsize
+
+
 **Aware Asset Management - St Paul, MN**  \hfill 2019 - 2021
 
 \vspace{-1ex}
@@ -193,6 +213,8 @@ Junior Trader
 
 - Created and presented finance training seminars for non-traders. \vspace{-0.5ex}
 
+\pagebreak
+
 \normalsize
 
 
@@ -244,7 +266,7 @@ GPA: 3.42
 
 \vspace{-1ex}
 
-Python, R, SQL, Amazon Web Services, Linux, Git/GitHub, Tableau, Excel, VBA
+Python, R, SQL, Tableau, Excel, VBA
 
 **Communication Tools**
 
@@ -257,7 +279,7 @@ Jupyter Notebook, R Markdown, Bookdown, \LaTeX
 
 \vspace{-1ex}
 
-Random Forest, Regression, Logistic Regression, Decision Trees, GARCH, Principal Components Analysis, Linear Algebra, Real Analysis, Probability
+Random Forest, Regression, Logistic Regression, Decision Trees, GARCH, Principal Components Analysis, Neural Networks, Linear Algebra, Real Analysis, Probability
 
 
 **Quantitative Finance**
