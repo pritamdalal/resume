@@ -57,7 +57,7 @@ Customer Success Manager
 \small
 - Work with our largest financial services clients to ensure successful adoption of Posit's professional products; the primary sales success metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
 
-- For 2021, achieved a gross dollar retention of 93% versus a quota of 89%. \vspace{-0.5ex}
+- For 2021, achieved a gross dollar retention of 93% versus a quota of 89%.   For 2022, achieved 91.5% versus a quota of 89%. \vspace{-0.5ex}
 
 - Conduct a variety of client-facing webinars and seminars on Python, R, and Posit professional products. \vspace{-0.5ex}
 
@@ -80,7 +80,7 @@ Adjunct Faculty
 
 - Faculty mentor for final project of Carlson School of Business Master of Science in Finance program. \vspace{-0.5ex}
 
-- Developed an R package to clean and wrangle a large database of historical options data; implemented an on-premise PostgresSQL database for data storage. \vspace{-0.5ex}
+- Developed an R package to clean and wrangle a large database of historical options data; implemented an on-premise Postgres database for data storage. \vspace{-0.5ex}
 <!-- - Building relationships with data vendors and local industry to provide data to the program. \vspace{-0.5ex} -->
 <!-- - My courses focus on Python and R with applications in quantitative finance. \vspace{-0.5ex} -->
 - Machine Learning: \href{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance}{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance} \vspace{-0.5ex}

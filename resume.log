@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  20 DEC 2022 20:42
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.17)  21 DEC 2022 05:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -902,7 +902,7 @@ This may cause the page layout to be inconsistent, however.
 
 ] [2]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 475.
+(Font)              scaled to size 7.665pt on input line 476.
 [3] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -910,7 +910,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  31933 strings out of 479290
  627577 string characters out of 5876857
- 1099423 words of memory out of 5000000
+ 1099422 words of memory out of 5000000
  50903 multiletter control sequences out of 15000+600000
  407682 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
