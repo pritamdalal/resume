@@ -35,9 +35,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Quantitative professional with 15 years of experience in research, data science, and trading roles.
 
-* University of Minnesota adjunct faculty teaching graduate students data science through appointments in the School of Mathematics and the Carlson School of Business.
+* University of Minnesota adjunct faculty teaching graduate students machine learning and data science through appointments in the School of Mathematics and the Carlson School of Business.
 
-* Master's in Financial Mathematics (University of Minnesota) and Bachelor's in Mathematics and Economics (University of California Berkeley).
+* Master's in Financial Mathematics (University of Minnesota) and Bachelor's in Mathematics and Economics (University of California, Berkeley).
 
 * Experienced in data science, machine learning and statistics: random forest, gradient boosted trees, GARCH, neural networks, principal component analysis, regression.
 
@@ -46,7 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Financial services experience working with options, commodities, futures, variance swaps,  interest rate swaps,  mortgages, corporate debt, asset-backed securities, annuities.
 
 # Experience
-**RStudio - Minneapolis, MN**  \hfill 2021 - Present
+**Posit - Minneapolis, MN**  \hfill 2021 - Present
 
 \vspace{-1ex}
 
@@ -55,36 +55,15 @@ Customer Success Manager
 \vspace{-1.5ex}
 
 \small
-- Work with our largest financial services clients to ensure successful adoption of RStudio's professional products; the primary sales success metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
+- Work with our largest financial services clients to ensure successful adoption of Posit's professional products; the primary sales success metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
 
 - For 2021, achieved a gross dollar retention of 93% versus a quota of 89%. \vspace{-0.5ex}
 
-- Conduct a variety of client-facing webinars and seminars on Python, R, and RStudio professional products. \vspace{-0.5ex}
+- Conduct a variety of client-facing webinars and seminars on Python, R, and Posit professional products. \vspace{-0.5ex}
 
 - Lead a series of internal trainings on data wrangling in Python. \vspace{-0.5ex}
 
 \normalsize
-
-
-**Aware Asset Management - St Paul, MN**  \hfill 2019 - 2021
-
-\vspace{-1ex}
-
-Head of Quantitative Research
-
-\vspace{-1.5ex}
-
-\small
-- Determined the quantitative research agenda for all of Aware's investment strategies spanning corporate debt, mortgage backed securities, and asset backed securities. \vspace{-0.5ex}
-
-- Developed machine learning models for predicting student loan defaults in JupyterLab with Python’s scikit-learn package; features were selected from Intex CDU files, and a variety of classification models were employed including logistic regression, decision tree, and random  forest. \vspace{-0.5ex}
-
-- Lead the migration of our research platform into Blue Cross’s new AWS architecture and developed a working knowledge of several services including Redshift, S3, EC2.  \vspace{-0.5ex}
-
-- Contributed to marketing through media interviews, podcast appearances, and monthly newsletter authorship. \vspace{-0.5ex}
-
-\normalsize
-
 <!-- \vspace{-1.75ex} -->
 
 **University of Minnesota - Minneapolis, MN**  \hfill 2018 - Present
@@ -101,7 +80,7 @@ Adjunct Faculty
 
 - Faculty mentor for final project of Carlson School of Business Master of Science in Finance program. \vspace{-0.5ex}
 
-- Developed an R package to clean and wrangle a large database of historical options data, using on-premise MySQL and PostgresSQL databases for data storage. \vspace{-0.5ex}
+- Developed an R package to clean and wrangle a large database of historical options data; implemented an on-premise PostgresSQL database for data storage. \vspace{-0.5ex}
 <!-- - Building relationships with data vendors and local industry to provide data to the program. \vspace{-0.5ex} -->
 <!-- - My courses focus on Python and R with applications in quantitative finance. \vspace{-0.5ex} -->
 - Machine Learning: \href{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance}{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance} \vspace{-0.5ex}
@@ -112,7 +91,27 @@ Adjunct Faculty
 
 \normalsize
 
-<!-- \vspace{-1.75ex} -->
+**Aware Asset Management - St Paul, MN**  \hfill 2019 - 2021
+
+\vspace{-1ex}
+
+Head of Quantitative Research
+
+\vspace{-1.5ex}
+
+\small
+- Determined the quantitative research agenda for all of Aware's investment strategies spanning corporate debt, mortgage backed securities, and asset backed securities. \vspace{-0.5ex}
+
+- Developed machine learning models for predicting student loan defaults in JupyterLab with Python’s scikit-learn package; features were selected from Intex CDU files, and a variety of classification models were employed including logistic regression, decision tree, and random  forest. \vspace{-2ex}
+
+<!-- - Lead the migration of our research platform into Blue Cross’s new AWS architecture and developed a working knowledge of several services including Redshift, S3, EC2.  \vspace{-0.5ex} -->
+- Contributed to marketing through media interviews, podcast appearances, and monthly newsletter authorship. \vspace{-0.5ex}
+
+\normalsize
+
+
+
+\vspace{100ex}
 
 **Incenter - St. Paul, MN**  \hfill 2016 - 2017
 
@@ -123,7 +122,7 @@ Trader Analyst
 \vspace{-1.5ex}
 
 \small
-- Priced and calculated sensitivities for MSR, reverse mortgages, and other mortgage products; data warehouses were located in Azure, and computations were executed in Python, R, and VBA. \vspace{-0.5ex}
+- Priced and calculated sensitivities for MSR, reverse mortgages, and other mortgage products; data warehouses were located in Azure and computations were executed in R and VBA. \vspace{-0.5ex}
 <!-- - Developed risk reporting systems in Python for hedging a portfolio of mortgage-related assets. \vspace{-0.5ex} -->
 
 - Developed and implemented the TBA and interest rate swap hedging strategies; developed custom R functions for valuing interest rate swaps. \vspace{-0.5ex}
@@ -142,9 +141,9 @@ Data Scientist
 \vspace{-1.5ex}
 
 \small
-- Performed reporting, data analysis, and predictive analytics on various aspect of automated market-making systems utilizing R, SQL, Tableau, and Tableau Server; data sources included OPRA, exchange reporting, and proprietary data generated from the market-making strategies. \vspace{-0.5ex}
+- Performed reporting, data analysis, and predictive analytics on various aspects of automated market-making systems utilizing R, SQL, Tableau, and Tableau Server; data sources included OPRA, exchange reporting, and proprietary data generated from the market-making strategies. \vspace{-2.25ex}
 
-- Lead Wolverine's proprietary delta-hedging strategy, a program for saving on transaction costs by holding positions in the underlying (deltas) for short periods of time. \vspace{-0.5ex}
+<!-- - Lead Wolverine's proprietary delta-hedging strategy, a program for saving on transaction costs by holding positions in the underlying (deltas) for short periods of time. \vspace{-0.5ex} -->
 
 - Lead the analytics development for Wolverine's liquidity taking strategies; created a visualization-based dashboard in Tableau to stratify fill-rate statistics. \vspace{-0.5ex}
 
@@ -180,7 +179,7 @@ Principal and Researcher
 \vspace{-1.5ex}
 
 \small
-- Backtested various volatility trading strategies in equities and ETFs, using R and Python; this involved empirical research in portfolio optimization and variance forecasting. \vspace{-0.5ex}
+- Backtested various volatility trading strategies on equities and ETFs, using R, Excel, and VBA; this involved empirical research in portfolio optimization and variance forecasting. \vspace{-0.5ex}
 
 - Built an on-premise MySQL research database for historical end-of-day option prices, intraday option prices, parametric fitted skews, equity corporate actions, and variance estimates. \vspace{-0.5ex}
 
