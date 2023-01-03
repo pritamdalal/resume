@@ -46,7 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Financial services experience working with options, commodities, futures, variance swaps,  interest rate swaps,  mortgages, corporate debt, asset-backed securities, annuities.
 
 # Experience
-**Posit - Minneapolis, MN**  \hfill 2021 - Present
+**Posit (RStudio) - Minneapolis, MN**  \hfill 2021 - Present
 
 \vspace{-1ex}
 
