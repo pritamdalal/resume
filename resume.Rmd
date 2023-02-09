@@ -33,15 +33,15 @@ knitr::opts_chunk$set(echo = FALSE)
 # Summary
 <!-- A Senior Quantitative Finance Research Professional producing insights from data with excellent programming, data science and machine learning skills. Recognized for excellent written and verbal analytical communication skills including public speaking, and white paper authorship. Dedicated team player and technical lead, with aptitude to deliver results with calm temperament in demanding and ambiguous environments. -->
 
-* Quantitative professional with 15 years of experience in research, data science, and trading roles.
+* Quantitative professional with 12 years of experience in research, data science, and trading roles.
 
 * University of Minnesota adjunct faculty teaching graduate students machine learning and data science through appointments in the School of Mathematics and the Carlson School of Business.
 
 * Master's in Financial Mathematics (University of Minnesota) and Bachelor's in Mathematics and Economics (University of California, Berkeley).
 
-* Experienced in data science, machine learning and statistics: random forest, gradient boosted trees, GARCH, neural networks, principal component analysis, regression.
+* Experienced in data science, machine learning, and statistics: random forest, gradient boosted trees, GARCH, neural networks, principal component analysis, regression.
 
-* Development experience in Python, R, MySQL, PostgreSQL, Excel and VBA.
+* Development experience in Python, R, MySQL, PostgreSQL, Excel, and VBA.
 
 * Financial services experience working with options, commodities, futures, variance swaps,  interest rate swaps,  mortgages, corporate debt, asset-backed securities, annuities.
 
@@ -55,7 +55,7 @@ Customer Success Manager
 \vspace{-1.5ex}
 
 \small
-- Work with our largest financial services clients to ensure successful adoption of Posit's professional products; the primary sales success metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
+- Work with Posit's largest financial services clients to ensure successful adoption of Posit's professional products; the primary sales success metric is renewal rate (gross dollar retention). \vspace{-0.5ex}
 
 - For 2021, achieved a gross dollar retention of 93% versus a quota of 89%.   For 2022, achieved 91.5% versus a quota of 89%. \vspace{-0.5ex}
 
@@ -76,13 +76,15 @@ Adjunct Faculty
 
 \small
 
-- Develop and teach machine learning and data analysis courses using Python and R courses for Master of Financial Mathematics program; tutorials developed in Jupyter Notebooks and R Markdown notebooks, slide presentations written in R Markdown. \vspace{-0.5ex}
+- Develop and teach machine learning and data analysis courses using Python and R courses for the Master of Financial Mathematics program; tutorials developed in Jupyter Notebooks and R Markdown notebooks, slide presentations written in R Markdown. \vspace{-0.5ex}
 
 - Faculty mentor for final project of Carlson School of Business Master of Science in Finance program. \vspace{-0.5ex}
 
-- Developed an R package to clean and wrangle a large database of historical options data; implemented an on-premise Postgres database for data storage. \vspace{-0.5ex}
+- Developed an R package to clean and wrangle a large database of historical options data; implemented an on-premise Postgres database for data storage. \vspace{-1.75ex}
+
 <!-- - Building relationships with data vendors and local industry to provide data to the program. \vspace{-0.5ex} -->
 <!-- - My courses focus on Python and R with applications in quantitative finance. \vspace{-0.5ex} -->
+
 - Machine Learning: \href{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance}{https://github.com/pritamdalal/python\_for\_machine\_learning\_in\_finance} \vspace{-0.5ex}
 
 - Python: \href{https://github.com/pritamdalal/python\_for\_data\_wrangling\_in\_finance}{https://github.com/pritamdalal/python\_for\_data\_wrangling\_in\_finance} \vspace{-0.5ex}
@@ -141,7 +143,7 @@ Data Scientist
 \vspace{-1.5ex}
 
 \small
-- Performed reporting, data analysis, and predictive analytics on various aspects of automated market-making systems utilizing R, SQL, Tableau, and Tableau Server; data sources included OPRA, exchange reporting, and proprietary data generated from the market-making strategies. \vspace{-2.25ex}
+- Performed reporting, data analysis, and predictive analytics on various aspects of automated market-making systems utilizing R, SQL, Tableau, and Tableau Server; data sources included OPRA, exchange reporting, and proprietary data generated from the market-making strategies. \vspace{-2ex}
 
 <!-- - Lead Wolverine's proprietary delta-hedging strategy, a program for saving on transaction costs by holding positions in the underlying (deltas) for short periods of time. \vspace{-0.5ex} -->
 
@@ -198,11 +200,11 @@ Junior Trader
 \vspace{-1.5ex}
 
 \small
-- Developed, backtested, and implemented a proprietary commodity volatility trading strategy; this research was conducted in VBA and Excel, with a Oracle database backend.  \vspace{-0.5ex}
+- Developed, backtested, and implemented a proprietary commodity volatility trading strategy; this research was conducted in VBA and Excel, with an Oracle database backend.  \vspace{-2ex}
 
-- Strategy performance (4/2011-7/2014): \$20MM AUM, 16\% annualized returns, 1.88 Sharpe-Ratio.  \vspace{-0.5ex}
+<!-- - Strategy performance (4/2011-7/2014): \$20MM AUM, 16\% annualized returns, 1.88 Sharpe-Ratio.  \vspace{-0.5ex} -->
 
-- Managing and hedging portfolios of exotic derivatives on various commodity futures.  \vspace{-0.5ex}
+- Managed and hedged portfolios of exotic derivatives on various commodity futures.  \vspace{-0.5ex}
 
 - Data analysis of skew-based models for pricing and replicating digital and barrier options using R. \vspace{-0.5ex}
 
@@ -271,7 +273,7 @@ Python, R, SQL, Tableau, Excel, VBA
 
 \vspace{-1ex}
 
-Jupyter Notebook, R Markdown, Bookdown, \LaTeX
+Jupyter Notebook, Quarto, R Markdown, \LaTeX
 
 
 **Machine Learning, Statistics, and Mathematics**
